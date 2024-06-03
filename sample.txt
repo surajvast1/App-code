@@ -1,0 +1,1 @@
+This is a sample file. it contains several sentences. Some of these sentences start with uppercase letters. for example, this one does not. However, This one does. Let's count the character 'e'. There are many 'e's in this text. Finally, here is the last sentence.
