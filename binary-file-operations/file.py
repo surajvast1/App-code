@@ -22,7 +22,7 @@ def read_records_from_file(filename):
             price = unpacked_data[3]
             records.append((item_no, item_name, qty, price))
     return records
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 def display_records(records):
     for record in records:
         item_no, item_name, qty, price = record
